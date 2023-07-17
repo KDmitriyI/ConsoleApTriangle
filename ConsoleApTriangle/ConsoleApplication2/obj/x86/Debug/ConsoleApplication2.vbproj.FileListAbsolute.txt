@@ -1,0 +1,11 @@
+F:\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+F:\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+F:\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
+F:\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.Resources.resources
+F:\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.vbproj.GenerateResource.Cache
+F:\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+F:\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.xml
+F:\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+D:\DropBox_диск\Dropbox\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+D:\DropBox_диск\Dropbox\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.xml
+D:\DropBox_диск\Dropbox\ННГАСУ\занятия\С#\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
